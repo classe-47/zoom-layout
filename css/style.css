@@ -6,13 +6,13 @@
 
 body {
     font-family: 'Lato', sans-serif;
+    background-color: #000000;
 }
 
 
 /* header */
 header {
     height: 50px;
-    background-color: #000000;
     text-align: right;
 }
 
@@ -116,9 +116,9 @@ footer{
 
 /* debug */
 
-.debug main {
+/* .debug main {
     background-color: yellow;
-}
+} */
 
 /* .debug footer {
     background-color: red;
